@@ -11,13 +11,13 @@ This is a simple HTML website structure that demonstrates the use of **header**,
 ## 🧩 Project Structure
 
 ```
-
+```
 sample-website/
 │
 ├── index.html        # Main HTML file
 ├── style.css         # External CSS for styling
 └── README.md         # Project documentation
-
+```
 ````
 
 ---
