@@ -1,16 +1,19 @@
 
 ---
 
-```markdown
+```
 # 🌐 Sample Website
 
-This is a simple HTML website structure that demonstrates the use of **header**, **navigation bar**, **content sections**, and **footer**. It’s designed for beginners learning web development basics such as layout organization, semantic tags, and linking external CSS.
+This is a simple HTML website structure that demonstrates the use of **header**,
+**navigation bar**, **content sections**, and **footer**.
+ It’s designed for beginners learning web development basics such as layout organization,
+ semantic tags, and linking external CSS.
 
 ---
-
+```
 ## 🧩 Project Structure
 
-```
+
 ```
 sample-website/
 │
